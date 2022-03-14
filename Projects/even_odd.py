@@ -35,4 +35,4 @@ if(numm % check == 0):
     print("\nFirst number is even with respect to second number")
 
 else:
-    print("\nThey didn't divide evenly amid each other.")
+    print("\nThey didn't divide evenly amid each other")
